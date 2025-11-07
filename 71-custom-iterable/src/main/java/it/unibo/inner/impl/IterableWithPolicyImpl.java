@@ -2,7 +2,6 @@ package it.unibo.inner.impl;
 
 import java.util.List;
 import java.util.Iterator;
-import java.util.List;
 import java.util.NoSuchElementException;
 
 import it.unibo.inner.api.IterableWithPolicy;
